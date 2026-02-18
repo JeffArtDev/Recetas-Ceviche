@@ -19,7 +19,7 @@ header {
   text-align: center;
   padding: 2.8rem 1rem;
   background: linear-gradient(135deg, #10b981, #06b6d4, #3b82f6);
-  color: #fff;
+  color: #0d1117;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.4);
@@ -137,4 +137,5 @@ p {
     font-size: 1.6rem;
   }
 }
+
 
